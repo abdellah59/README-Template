@@ -31,3 +31,33 @@
 ### Prérequis
 - **Linux/macOS/Windows**
 - **Git & Node.js** installés (si nécessaire)
+
+# Lancer l'application
+npm start
+
+## 📸 Aperçu
+<p align="center"> <img src="https://via.placeholder.com/800x400.png?text=Screenshot+du+Projet" alt="Aperçu"> </p>
+
+## 💡 Fonctionnalités
+
+- ✅ Fonctionnalité 1
+- ✅ Fonctionnalité 2
+- ✅ Fonctionnalité 3
+
+## 🛠️ Technologies utilisées
+
+- 🔹 HTML/CSS/JS
+- 🔹 Node.js
+- 🔹 React / Vue / Angular
+- 🔹 MongoDB / PostgreSQL
+- 🔹 Docker (si applicable)
+
+## 📝 Licence
+
+Ce projet est sous licence MIT – voir le fichier LICENSE pour plus d’informations.
+
+## 🔗 Liens utiles
+
+- 📖 Documentation : Lien vers la doc
+- 🎥 Démo vidéo : YouTube
+- 🌍 Site web : Lien vers le site
